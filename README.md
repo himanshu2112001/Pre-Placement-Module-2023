@@ -7,7 +7,7 @@
 - Preferred Programming Language:Python
 
 ## Coding Profiles
-- LeetCode: [himanshu21](https://leetcode.com/YourLeetCodeUserName/)
+- LeetCode: [himanshusingh21](https://leetcode.com/YourLeetCodeUserName/)
 - HackerRank: [himanshusingh122](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
