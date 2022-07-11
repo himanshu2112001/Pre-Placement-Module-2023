@@ -7,8 +7,8 @@
 - Preferred Programming Language:Python
 
 ## Coding Profiles
-- LeetCode: [himanshusingh21](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [himanshusingh122](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [himanshusingh21](https://leetcode.com/himanshusingh21/)
+- HackerRank: [himanshusingh122](https://www.hackerrank.com/himanshusingh122)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
